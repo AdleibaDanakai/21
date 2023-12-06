@@ -1,0 +1,129 @@
+/*==========  Desktop First  ========== */
+/* Large Devices, Wide Screens */
+@media only screen and (max-width: 1200px) {
+    #content2 {
+        padding: 50px 0;
+        border-radius: 1em;
+        position: absolute;
+        top: 619px;
+        left: 50%;
+        margin-right: -50%;
+        transform: translate(-50%, -50%);
+    }
+
+  }
+  /* Medium Devices, Desktops */
+  @media only screen and (max-width: 992px) {
+
+    #content2 {
+        padding: 50px 0;
+        border-radius: 1em;
+        position: absolute;
+        top: 601px;
+        left: 50%;
+        margin-right: -50%;
+        transform: translate(-50%, -50%);
+    } }
+
+
+
+@media only screen and (max-width: 839px) {
+
+    #content2 {
+        padding: 50px 0;
+        border-radius: 1em;
+        position: absolute;
+        top: 762px;
+        left: 50%;
+        margin-right: -50%;
+        transform: translate(-50%, -50%);
+    }
+}
+
+  /* Small Devices, Tablets */
+  @media only screen and (max-width: 768px) {
+  
+
+    #content2 {
+        padding: 50px 0;
+        border-radius: 1em;
+        position: absolute;
+        top: 762px;
+        left: 50%;
+        margin-right: -50%;
+        transform: translate(-50%, -50%);
+    }
+
+  
+  .mnu_top{
+    display: none;
+  }
+  
+  .hamburger{
+      display: block;
+  }
+}
+
+@media only screen and (max-width: 629px) {
+    #content2 {
+        padding: 50px 0;
+        border-radius: 1em;
+        position: absolute;
+        top: 1061px;
+        left: 50%;
+        margin-right: -50%;
+        transform: translate(-50%, -50%);
+    }
+
+}
+
+
+  /* Extra Small Devices, Phones */
+  @media only screen and (max-width: 480px) {
+   
+    img {
+        max-width: 150%;
+    }
+    .mnu_top{
+      display: none;
+    }
+  
+    .hamburger{
+        display: block;
+    }
+    #content2 {
+        padding: 50px 0;
+        border-radius: 1em;
+        position: absolute;
+        top: 1070px;
+        left: 50%;
+        margin-right: -50%;
+        transform: translate(-50%, -50%);
+    }
+  
+  }
+
+  @media only screen and (max-width: 419px) {
+    #content2 {
+        padding: 50px 0;
+        border-radius: 1em;
+        position: absolute;
+        top: 1977px;
+        left: 50%;
+        margin-right: -50%;
+        transform: translate(-50%, -50%);
+    }
+  }
+  /* Custom, iPhone Retina */
+  @media only screen and (max-width: 320px) {
+    #content2 {
+        padding: 50px 0;
+        border-radius: 1em;
+        position: absolute;
+        top: 1976px;
+        left: 50%;
+        margin-right: -50%;
+        transform: translate(-50%, -50%);
+    }
+  }
+
